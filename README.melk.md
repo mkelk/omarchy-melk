@@ -130,6 +130,12 @@ bin/omarchy-update-available
 bin/omarchy-version
 ```
 
+### My customizations
+- **Browser**: Google Chrome (installed via migration `1756239768.sh`) replaces default Chromium
+- **Cloud storage**: pCloud Drive (installed via migration `1756241229.sh`)
+- **Password manager**: KeePass (installed via migration `1756241598.sh`)
+- Personal scripts prefixed with `melk-*`
+
 ### Troubleshooting quick notes
 - Component not updating? Re-run the specific `bin/omarchy-refresh-*` and check logs.
 - Waybar weirdness? Restart it and check for CSS errors.
