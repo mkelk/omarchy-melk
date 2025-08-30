@@ -134,6 +134,7 @@ bin/omarchy-version
 - **Browser**: Google Chrome (installed via migration `1756239768.sh`) replaces default Chromium
 - **Cloud storage**: pCloud Drive (installed via migration `1756241229.sh`)
 - **Password manager**: KeePass (installed via migration `1756241598.sh`)
+- **Development**: Android Studio (installed via migration `1756242145.sh`)
 - Personal scripts prefixed with `melk-*`
 
 ### Troubleshooting quick notes
